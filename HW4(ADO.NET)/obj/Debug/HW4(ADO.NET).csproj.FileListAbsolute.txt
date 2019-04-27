@@ -1,0 +1,15 @@
+C:\Users\Acer-PC\source\repos\HW4(ADO.NET)\HW4(ADO.NET)\bin\Debug\SalesDB.mdf
+C:\Users\Acer-PC\source\repos\HW4(ADO.NET)\HW4(ADO.NET)\bin\Debug\SalesDB_log.ldf
+C:\Users\Acer-PC\source\repos\HW4(ADO.NET)\HW4(ADO.NET)\bin\Debug\HW4(ADO.NET).exe.config
+C:\Users\Acer-PC\source\repos\HW4(ADO.NET)\HW4(ADO.NET)\bin\Debug\HW4(ADO.NET).exe
+C:\Users\Acer-PC\source\repos\HW4(ADO.NET)\HW4(ADO.NET)\bin\Debug\HW4(ADO.NET).pdb
+C:\Users\Acer-PC\source\repos\HW4(ADO.NET)\HW4(ADO.NET)\obj\Debug\HW4(ADO.NET).csprojAssemblyReference.cache
+C:\Users\Acer-PC\source\repos\HW4(ADO.NET)\HW4(ADO.NET)\obj\Debug\HW4_ADO.NET_.Form1.resources
+C:\Users\Acer-PC\source\repos\HW4(ADO.NET)\HW4(ADO.NET)\obj\Debug\HW4_ADO.NET_.Form2.resources
+C:\Users\Acer-PC\source\repos\HW4(ADO.NET)\HW4(ADO.NET)\obj\Debug\HW4_ADO.NET_.Properties.Resources.resources
+C:\Users\Acer-PC\source\repos\HW4(ADO.NET)\HW4(ADO.NET)\obj\Debug\HW4(ADO.NET).csproj.GenerateResource.cache
+C:\Users\Acer-PC\source\repos\HW4(ADO.NET)\HW4(ADO.NET)\obj\Debug\HW4(ADO.NET).csproj.CoreCompileInputs.cache
+C:\Users\Acer-PC\source\repos\HW4(ADO.NET)\HW4(ADO.NET)\obj\Debug\HW4(ADO.NET).exe
+C:\Users\Acer-PC\source\repos\HW4(ADO.NET)\HW4(ADO.NET)\obj\Debug\HW4(ADO.NET).pdb
+C:\Users\Acer-PC\source\repos\HW4(ADO.NET)\HW4(ADO.NET)\obj\Debug\HW4_ADO.NET_.Form3.resources
+C:\Users\Acer-PC\source\repos\HW4(ADO.NET)\HW4(ADO.NET)\obj\Debug\HW4_ADO.NET_.Form4.resources
